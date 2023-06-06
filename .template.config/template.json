@@ -12,6 +12,5 @@
         "type": "project"
     },
     "sourceName": "Pippidon",
-    "preferNameDirectory": tru
+    "preferNameDirectory": true
 }
-
